@@ -1,3 +1,9 @@
+# Easy PAY  
+Built a decentralized payment app using React and Solidity that enables seamless transactions through biometric verification (webcam-based ID registration) and browser wallet integration (MetaMask).
+Utilized Solidity for smart contract development.
+Implemented React for frontend and Web3.js/ethers.js for blockchain interaction.
+Enabled secure, gas-efficient transactions on Ethereum.
+
 # Next.js & NextUI Template
 
 This is a template for creating applications using Next.js 14 (app directory) and NextUI (v2).
